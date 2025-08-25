@@ -11,7 +11,7 @@ You can create, read, and delete notes, which are stored in a JSON file.
 
 ## 🛠️ Technologies
 - Python 3
-- Modules: `json`, `os`
+- Modules: `json`, `os`,  `random`
 
 ## ▶️ Run
 ```bash
